@@ -1,4 +1,4 @@
-LOCAL
+REMOTE
 bbbbbbbbbbbbbbbbb
 bbbbbbbbbbbbbbbbb
 bbbbbbbbbbbbbbbbbb
