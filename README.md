@@ -1,5 +1,3 @@
-LOCAL
-REMOTE
-aaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaa
-aaaaaaaaaaaaaaaaaaaaaaaaa
+LOCAL chez moi
+bbbbbbbbbbbbbbbbb
+bbbbbbbbbbbbbbbbb
