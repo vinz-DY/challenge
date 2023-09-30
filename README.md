@@ -1,4 +1,4 @@
-LOCAL
+LOCALY
 bbbbbbbbbbbbbbbbb
 bbbbbbbbbbbbbbbbb
 bbbbbbbbbbbbbbbbbb
